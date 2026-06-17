@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="logo">assets/DTXJ.jpg</file>
+        <file alias="appico">assets/HibiBoard.ico</file>
+    </qresource>
+</RCC>
